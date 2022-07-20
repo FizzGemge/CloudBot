@@ -1,5 +1,5 @@
 {
-  "name": "CloudBot",
+  "name": "FizzBot",
   "description": "Customizable WhatsApp Bot",
   "repository": "https://github.com/lordlightness/Cloud-Bot-Whatsapp-Multi-Device",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
@@ -9,12 +9,12 @@
         "NOWNER": {
             "description": "Nomer Owner",
             "required": true,
-            "value": "6281224863098"
+            "value": "6288294951448"
         },
         "NAMAOWNER": {
             "description": "Nama Owner",
             "required": true,
-            "value": "Dellas"
+            "value": "Fizz"
         },
         "LINK_GITHUB": {
             "description": "Link Github",
@@ -29,7 +29,7 @@
         "LINK_GROUP": {
             "description": "Link tautan grup whatsapp",
             "required": true,
-            "value": "https://chat.whatsapp.com/Bx5aAxINL4hBLt6MxaK5xB"
+            "value": "https://chat.whatsapp.com/BuJpmMsBe2GG89eoLC3Zdi"
         },
         "PACKNAME": {
             "description": "Packname sticker",
@@ -39,7 +39,7 @@
         "AUTHOR": {
             "description": "Author Bot (WM)",
             "required": true,
-            "value": "CloudBot"
+            "value": "FizzBot"
         },
         "MODERATOR": {
             "description": "Moderator Bot",
@@ -52,9 +52,9 @@
             "value": "https://telegra.ph/file/baea4ead668adebdc5073.jpg"
         },
         "DONASI": {
-            "description": "Nomer Owner",
+            "description": "Donasi",
             "required": true,
-            "value": "https://saweria.co/itsmedell"
+            "value": "https://lynk.id/fizzz"
         }
 },
   "buildpacks": [
