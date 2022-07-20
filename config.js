@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
-global.author = process.env.AUTHOR
+global.packname = Fizz Bot
+global.author = Fizz
 
 global.multiplier = 69 // The higher, The harder levelup
 
